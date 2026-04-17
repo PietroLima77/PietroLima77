@@ -1,6 +1,6 @@
 ### 👩🏻‍💻 Pietro Lima
 
-**`Analista de Sistema juniro`**
+**`Analista de Sistema junior`**
 
 Me chamo Pietro Lima, tenho 18 anos e sou natural de Minas Gerais. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Univiçosa. Sou apaixonad0 por tecnologia
 <p align="left">
